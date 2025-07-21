@@ -43,6 +43,7 @@ b) Diskutieren Sie anhand von zwei Beispielen (z.B. **Verteilung der Daten**, **
 2. **Architekturvorschlag und Begründung**
 
 a)  Skizzieren Sie eine plausible Datenintegrationsarchitektur für den Merger der beiden Unternehmen. Berücksichtigen Sie dabei die Konzepte "**Mediator**" und "**Wrapper**". (6P)
+
 b)  Begründen Sie Ihre architektonischen Entscheidungen kurz und prägnant. (4P)
 
 ---
